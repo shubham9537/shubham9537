@@ -23,8 +23,8 @@ Frontend: React.js, HTML5, CSS3, JavaScript, TailwindCSS Backend: Node.js, Expre
 🔹 Salary Management System – MERN stack app with user & admin dashboards, real-time salary counter, and UPI integration. 🔹 AI Healthcare Optimization – Hackathon project with remote patient monitoring, mood tracking, and X-ray detection. 🔹 Tour Management App – Web app for managing tours with booking and scheduling features.
 
 📫 Connect With Me
-💼 LinkedIn
-🌐 Portfolio
+💼 [LinkedIn](https://www.linkedin.com/in/shubham-prajapati-4a4262241/)
+🌐 [Portfolio](https://shubhamkistudy.netlify.app/)
 📧 Email: shubhamprajapati9537@gmail.com
 
 ✨ “Code, Learn, Build, Repeat.”
